@@ -40,7 +40,7 @@ const config: HardhatUserConfig = {
       url: 'https://polygon-rpc.com',
       accounts: accounts('matic'),
       live: true,
-      gasPrice: 20e9
+      gasPrice: 40e9
     },
     harmony: {
       url: 'https://api.harmony.one',
