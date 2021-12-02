@@ -7,7 +7,7 @@ import './utils/wellknown';
 import '@nomiclabs/hardhat-etherscan';
 import {node_url, accounts} from './utils/networks';
 
-const SCAN_API_KEY = '4XTBEZQ8RDUVABYZM1NJ2KJD5158APRH96';
+const SCAN_API_KEY = '';
 
 const config: HardhatUserConfig = {
   solidity: {
